@@ -10,10 +10,10 @@ Say hi on [LinkedIn 👔](https://www.linkedin.com/in/adam-c-46a111188/)
 
 <p align="center">
   <a href="https://portfolio-adamcanray.vercel.app/#services">
-    <img src="./resources/services.png" width="400" alt="Portfolio Website - Services"/>
+    <img src="./resources/services.webp" width="400" alt="Portfolio Website - Services"/>
   </a>
   <a href="https://portfolio-adamcanray.vercel.app/#me">
-    <img src="./resources/me.png" width="400" alt="Portfolio Website - Me"/>
+    <img src="./resources/me.webp" width="400" alt="Portfolio Website - Me"/>
   </a>
 </p>
 

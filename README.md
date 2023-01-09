@@ -9,10 +9,10 @@ Say hi on [LinkedIn 👔](https://www.linkedin.com/in/adam-c-46a111188/)
 ## Let's Connect
 
 <p align="center">
-  <a href="https://mewho.vercel.app/#services">
+  <a href="https://imyours.vercel.app/queue?redirect_uri=/#services">
     <img src="./resources/services.webp" width="400" alt="Portfolio Website - Services"/>
   </a>
-  <a href="https://mewho.vercel.app/#me">
+  <a href="https://imyours.vercel.app/queue?redirect_uri=/#me">
     <img src="./resources/me.webp" width="400" alt="Portfolio Website - Me"/>
   </a>
 </p>

@@ -19,6 +19,7 @@ Say hi on [LinkedIn 👔](https://www.linkedin.com/in/adam-c-46a111188/)
 
 ## Further Projects
 
-- [🐙 Octopus Waterfall - Website for share quotes](https://octopuswaterfall.web.app/)
-- [🏴‍☠️ Nakama DAO - Nakama DAO Member Page (web3)](https://nakama-dao.vercel.app/)
-- [❤️ My Heart's Message - Transform Your Thoughts into Heartfelt Words with AI](https://my-hearts-message.vercel.app/?fr=gh)
+- [🐙 Octopus Waterfall - Website for share quotes](https://imyours.vercel.app/queue?redirect_uri=https://octopuswaterfall.web.app/)
+- [🏴‍☠️ Nakama DAO - Nakama DAO Member Page (web3)](https://imyours.vercel.app/queue?redirect_uri=https://nakama-dao.vercel.app/)
+- [❤️ My Heart's Message - Transform Your Thoughts into Heartfelt Words with AI](https://imyours.vercel.app/queue?redirect_uri=https://my-hearts-message.vercel.app/?fr=gh)
+- [Heartfelt Letter Extension - Let our AI Assistant Help You Express Your Love in the Most Romantic Way Possible](https://imyours.vercel.app/queue?redirect_uri=https://github.com/adamcanray/heartfelt-letters-extension)

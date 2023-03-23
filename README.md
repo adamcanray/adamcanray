@@ -4,7 +4,7 @@ I'm a Software Engineer (all things #Javascript #Typescript #ReactJS) from Jakar
 
 Interested in technological developments, programming and how things work or happen 🚀
 
-Say hi on [LinkedIn 👔](https://www.linkedin.com/in/adam-c-46a111188/)
+Say hi on [LinkedIn 👔](https://imyours.vercel.app/queue?redirect_uri=https://www.linkedin.com/in/adam-c-46a111188/)
 
 ## Let's Connect
 

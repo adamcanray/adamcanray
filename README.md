@@ -25,3 +25,4 @@ Say hi on [LinkedIn 👔](https://imyours.vercel.app/queue?redirect_uri=https://
 - [💌 Heartfelt Letter Extension - Let our AI Assistant Help You Express Your Love in the Most Romantic Way Possible](https://imyours.vercel.app/queue?redirect_uri=https://github.com/adamcanray/heartfelt-letters-extension)
 - [🤪 Silly Picture Generator - Turn me into anyone you want! Make sure you refer to me as "aneld" in the prompt](https://imyours.vercel.app/queue?redirect_uri=https://silly-picture-generator.vercel.app/)
 - [📃 RusticLogger - A simple logging app built with Rust.](https://imyours.vercel.app/queue?redirect_uri=https://github.com/adamcanray/rustic-logger)
+- [🛠️ ToolQuarry - A platform for open-source developers to share and collaborate on their tools and utilities](https://imyours.vercel.app/queue?redirect_uri=https://github.com/orgs/toolquarry)

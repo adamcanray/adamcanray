@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm a Software Engineer (all things #Javascript #Typescript #ReactJS) from Jakarta 🇮🇩
+I'm a Software Engineer (all things #Javascript #Typescript #ReactJS)
 
 Interested in technological developments, programming and how things work or happen 🚀
 

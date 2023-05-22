@@ -1,8 +1,12 @@
 Hi there 👋
 
-I'm a Software Engineer (all things #Javascript #Typescript #ReactJS)
+I'm a Software Engineer (#All #Things)
 
-Interested in technological developments, programming and how things work or happen 🚀
+Interested in technological developments, programming, and how things work or happen 🚀
+
+A former member of [Akatsukidev](https://imyours.vercel.app/queue?redirect_uri=https://github.com/akatsukidev)🥷🏽 who sealed [8-Tails Bijuu](https://imyours.vercel.app/queue?redirect_uri=https://naruto.fandom.com/wiki/Gy%C5%ABki) into the [Gedō Mazō](https://imyours.vercel.app/queue?redirect_uri=https://naruto.fandom.com/wiki/Demonic_Statue_of_the_Outer_Path)
+
+My current goal is to collect all four [Road Poneglyphs](https://imyours.vercel.app/queue?redirect_uri=https://onepiece.fandom.com/wiki/Poneglyph) to find [One Piece](https://imyours.vercel.app/queue?redirect_uri=https://onepiece.fandom.com/wiki/One_Piece) and become the Pirate King👑. This will be a long adventure that is not easy. Therefore, I built a large fleet, namely the [Nakama DAO](https://imyours.vercel.app/queue?redirect_uri=https://nakama-dao.vercel.app/)🏴‍☠️ (Decentralized Autonomous Organization).
 
 Say hi on [LinkedIn 👔](https://imyours.vercel.app/queue?redirect_uri=https://www.linkedin.com/in/adam-c-46a111188/)
 

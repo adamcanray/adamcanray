@@ -33,4 +33,4 @@ Say hi on [LinkedIn 👔](https://imyours.vercel.app/queue?redirect_uri=https://
 - [📃 RusticLogger](https://imyours.vercel.app/queue?redirect_uri=https://github.com/adamcanray/rustic-logger) - A simple logging app built with Rust.
 - [🛠️ ToolQuarry](https://imyours.vercel.app/queue?redirect_uri=https://github.com/orgs/toolquarry) - A platform for open-source developers to share and collaborate on their tools and utilities
 - [🥷🏽 Shinobi Name Service](https://imyours.vercel.app/queue?redirect_uri=https://shinobi-name-service-web3.vercel.app/) - Unleash Your Digital Jutsu in the Blockchain Realm!
-- [🕒 TimeVoyagers]([https://imyours.vercel.app/queue?redirect_uri=https://github.com/orgs/time-](https://github.com/TimeVoyagers)) - A vibrant community of creators and innovators exploring a multitude of projects across various domains.
+- [🕒 TimeVoyagers](https://imyours.vercel.app/queue?redirect_uri=https://github.com/TimeVoyagers) - A vibrant community of creators and innovators exploring a multitude of projects across various domains.

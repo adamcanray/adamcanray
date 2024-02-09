@@ -2,7 +2,7 @@ Hi there 👋
 
 My name is `<depends-on-your-current-timeline>`, Ujang is my name in timeline **2.0068914e+14**.
 
-I'm a Software Engineer, hokage wanna be.
+I'm a Software Engineer, Hokage wannabe.
 
 Interested in technological developments, programming, and how things work or happen 🚀
 
